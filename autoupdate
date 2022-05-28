@@ -1,4 +1,5 @@
-# Author: v1c_gm
+# Author: Víctor García (aka v1c_gm)
+
 function autoupdate(){
 	sudo pacman -Syu archlinux-keyring; paru -Syua; systemctl daemon-reload
 	echo "\n\n\t# UPDATING GITHUB REPOSITORIES #"
