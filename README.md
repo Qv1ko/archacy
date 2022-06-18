@@ -6,4 +6,4 @@ For the function to run correctly:
   3. You have to run the function as a normal user (not as root), typing in the console the function name
   4. While executing the function you have to enter the password of the administrator user or press the Enter key when necessary
 
-> Author: v1c
+> Author: v1c_gm
