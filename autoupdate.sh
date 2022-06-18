@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Author: Víctor García (aka v1c)
 
 function autoupdate(){
