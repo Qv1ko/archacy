@@ -1,6 +1,6 @@
 # MANUAL
 
-For the function to run correctly:
+__For the function to run correctly:__
   1. You have to enter the autoupdate.sh code in your .bashrc or .zshrc
   2. You will have to modify the path where the repositories are stored to the path where the repositories are stored on your system (line 8 of the autoupdate.sh code)
   3. You have to run the function as a normal user (not as root), typing in the console the function name
