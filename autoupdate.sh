@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Víctor García (aka v1c)
+# Author: Víctor García (aka v1c_gm)
 
 function autoupdate(){
 	sudo pacman -Syu archlinux-keyring
