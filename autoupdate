@@ -1,3 +1,5 @@
+#!/bin/bash
+
 function autoupdate(){
 	sudo pacman -Syu archlinux-keyring
 	echo "\n\n\t# UPDATING REPOSITORIES AND INTERNAL DATABASE #"
