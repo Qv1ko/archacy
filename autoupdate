@@ -1,7 +1,7 @@
 #!/bin/bash
 
 function autoupdate(){
-	sudo pacman -Syu archlinux-keyring
+	sudo pacman -Syyu --noconfirm; sudo paru -Syu
 	echo "\n\n\t# UPDATING REPOSITORIES AND INTERNAL DATABASE #"
 	sudo nmap --script-updatedb; sudo searchsploit -u; sudo updatedb
 	echo "\n\n\t# AUTOUPDATE SUCCESSFULLY COMPLETED #"
