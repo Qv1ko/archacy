@@ -3,6 +3,6 @@
 function autoupdate(){
 	sudo pacman -Syu archlinux-keyring
 	echo "\n\n\t# UPDATING REPOSITORIES AND INTERNAL DATABASE #"
-	searchsploit -u; sudo updatedb
+	sudo nmap --script-updatedb; sudo searchsploit -u; sudo updatedb
 	echo "\n\n\t# AUTOUPDATE SUCCESSFULLY COMPLETED #"
 }
