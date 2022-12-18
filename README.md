@@ -1,8 +1,10 @@
-# MANUAL
+# archacy
+Feature to add to your shell configuration to perform automatic Arch Linux updates.
+* Designed for cybersecurity auditors.
 
-***Language***
-- [🇪🇸 Spanish](./README-es.md)
-- 🇺🇸 English
+### README language
+* [🇪🇸 Spanish](./README-es.md)
+* 🇺🇸 English
 
 __For the function to run correctly:__
   1. You have to enter the **autoupdate** code in your .bashrc, .zshrc or .fishrc
