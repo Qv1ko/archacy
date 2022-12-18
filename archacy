@@ -1,6 +1,6 @@
 #!/bin/bash
 
-function autoupdate(){
+function archacy(){
 	sudo pacman -Syyu --noconfirm; sudo paru -Syu
 	echo "\n\n\t# UPDATING REPOSITORIES AND INTERNAL DATABASE #"
 	sudo nmap --script-updatedb; sudo searchsploit -u; sudo updatedb
