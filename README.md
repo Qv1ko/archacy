@@ -4,8 +4,8 @@ Feature to add to the shell configuration, which automatically updates your Arch
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-2022.03.01-2596BE?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
 
 ### README language
-* [🇪🇸 Spanish](./README-es.md)
-* 🇺🇸 English
+- [🇪🇸 Spanish](./README-es.md)
+- 🇺🇸 English
 
 ## Installation
 1. Clone the repository on your system.
