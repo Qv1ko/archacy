@@ -4,8 +4,8 @@ Función para añadir a la configuración del shell, que actualiza automáticame
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-2022.03.01-2596BE?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
 
 ### Lenguaje del README
-* 🇪🇸 Español
-* [🇺🇸 Inglés](./README.md)
+- 🇪🇸 Español
+- [🇺🇸 Inglés](./README.md)
 
 ## Instalación
 1. Clone el repositorio en su sistema.
